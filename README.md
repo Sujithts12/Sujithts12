@@ -12,12 +12,9 @@
 
 💡 A passionate **Power BI Developer** with a knack for turning raw data into actionable insights.    
 <p align="center">
-<p align="center">
-  <img src="https://github.com/sujithts31618-ui/sujithts31618-ui/blob/main/IMG_20251022_024715.jpg" alt="Banner" width="100%" />
-</p>
+
 🌱 Currently learning **Microsoft Fabric**.  
 🚀 Excited about solving business problems through **data visualization, analytics**.  
-
 
 
 # 🏅 Awards & Recognitions  
@@ -64,8 +61,8 @@
   </tr>
 </table>
 
-- **Power BI**: Data Modeling, DAX, Row-Level Security, KPI Dashboards, Schedule Refreshing 
-- **SQL**: Queries, Joins  
+- **Power BI**: Data Modeling, DAX, Row-Level Security, KPI Dashboards, Schedule Refreshing, Gateway Configuration etc
+- **SQL**: Queries, Joins, CTE, Views, Subqueries 
 - **Excel**: Pivot Tables, Power Query, Conditional formatting, Concatenation etc
 - **Power Automate**: Automated cloud flow
 
@@ -93,7 +90,7 @@
 - 📧 **Email**: sujithsiddarth243@gmail.com  
 - 📱 **Mobile**: +91-9480562681
   <p align="center">
-    <a href="mailto:sujithsiddarth243@gmail.com"><img src="https://img.shields.io/badge/Email-D83A56?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sujithsiddarth243@gmail.com"><img src="https://img.shields.io/badge/Email-D83A56?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sujith-siddarth-514830208/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://sujithts31618-ui.github.io/sujithts31618.github.io/"><img src="https://img.shields.io/badge/Portfolio-FFDD00?style=for-the-badge&logo=github&logoColor=black" /></a>
   <a href="https://www.instagram.com/___sujith_siddarth_?igsh=MW96aDY1eTg1cHBjaQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
