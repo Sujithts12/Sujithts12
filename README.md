@@ -1,4 +1,5 @@
 # Hi there, I'm Sujith Siddarth 👋
+🚀 I’m currently serving my notice period @ TATA Consultancy Services Banglore and actively looking for new opportunities as a **Power BI Developer / Data Analyst**.
 
 <p align="center">
   <img src="https://github.com/Sujithts12/Sujithts12/blob/main/portfolio.jpeg" alt="Banner" width="100%" />
