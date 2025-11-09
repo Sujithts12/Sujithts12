@@ -20,6 +20,7 @@
 
 # 🏅 Awards & Recognitions  
 
+- **Microsoft Certified** - PL-300 & DP-900 Associate 
 - **Contextual Master** – Recognized at Tata Consultancy Services  
 - **Star of the Month** – Awarded at Tata Play Limited  
 - **Special Initiative Award** – Awarded at Tata Play Limited
