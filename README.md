@@ -77,12 +77,15 @@
 
 # 📂 Featured Projects   
 
+| 💼 **Project** | 📝 **Description** | 🔗 **Link** |
+|----------------|-------------------|-------------|
+| **Power_BI_HR_Analytics_Dashboard** | Interactive HR Analytics Dashboard built using Power BI, aimed at visualizing key HR metrics using a dummy dataset. | [View Project](https://github.com/Sujithts12/Power_BI_HR_Analytics_Dashboard) |
+| **Fitness** | Power BI dashboard managing fitness center operations – memberships, revenue, trainer allocation, and client behavior tracking. | [View Project](https://github.com/Sujithts12/Fitness) |
+| **Sales_Analysis_Performance_USA** | Dynamic Sales Analysis Dashboard providing insights into performance across categories, time periods, and locations. | [View Project](https://github.com/Sujithts12/Sales_Analysis_Performance_USA) |
+| **Finance_KPI_Dashboard_2023_2024** | Financial KPI Dashboard showing Total Sales Actual vs Target, Variance, Monthly Targets, and Team Performance metrics. | [View Project](https://github.com/Sujithts12/Finance_KPI_Dashboard_2023_2024) |
+| **PowerBI_Python_Transformations_sentiment_analysis** | Python + Power BI project analyzing customer feedback to identify Positive, Negative, and Neutral sentiments using sentiment analysis. | [View Project](https://github.com/Sujithts12/PowerBI_Python_Transformations_sentiment_analysis) |
+| **Power_BI_Bike_sales** | Interactive Power BI dashboard analyzing bike sales trends, resale value, and mileage across Indian manufacturers. | [View Project](https://github.com/Sujithts12/Power_BI_Bike_sales) |
 
-| Project | Description | Link |
-|---------|-------------|------|
-
-| HR Analytics Dashboard | HR insights with interactive KPI dashboards | [View Project](https://github.com/sujithts31618-ui/Power_BI_HR_Analytics_Dashboard) |
-| Bike Sales Analysis | Comprehensive sales analysis with visuals | [View Project](https://github.com/sujithts31618-ui/Power_BI_Bike_sales) |
 
 
 
