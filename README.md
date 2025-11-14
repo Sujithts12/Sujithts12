@@ -21,9 +21,10 @@
 </p>
 
 <p align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=TATA+Consultancy+Services+%7C+Always+Building+%7C+Always+Sharing)
-
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FFFF&center=true&vCenter=true&width=650&lines=TATA+Consultancy+Services;Always+Building+%7C+Always+Sharing;Passionate+About+Data+%26+Analytics" 
+    alt="Typing Animation"
+/>
 </p>
 
 
