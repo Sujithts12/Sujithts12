@@ -26,6 +26,13 @@
   />
 </p>
 
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF8C00&width=800&lines=Awards+and+Recognitions"
+    alt="Typing SVG"
+  />
+</p>
+
 - **Microsoft Certified** - PL-300 & DP-900 Associate 
 - **Contextual Master** – Recognized at Tata Consultancy Services  
 - **Star of the Month** – Awarded at Tata Play Limited  
