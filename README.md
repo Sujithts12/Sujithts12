@@ -77,7 +77,7 @@
     alt="Typing SVG"
   /
 </p>  
-*December 2021 – Present*  - Whitefield Bangalore Karnataka 
+- **December 2021 – Present**  - Whitefield Bangalore Karnataka 
 
 
 
