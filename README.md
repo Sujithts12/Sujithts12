@@ -16,16 +16,7 @@
 
 🌱 Currently learning **Microsoft Fabric**.  
 🚀 Excited about solving business problems through **data visualization, analytics**.  
-<p align="center">
-  <img src="https://github.com/Sujithts12/Sujithts12/blob/main/portfolio.jpeg" alt="Banner" width="100%" />
-</p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0066CC&center=true&vCenter=true&width=750&lines=TATA+Consultancy+Services;Power+BI+Developer+%7C+Always+Sharing;Passionate+About+Data+%26+Analytics"
-    alt="Typing Animation"
-  />
-</p>
 
 # 🏅 Awards & Recognitions  
 
