@@ -21,7 +21,7 @@
 # 🏅 Awards & Recognitions  
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=🏅+ Awards+&+Recognitions"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=Awards+and+Recognitions"
     alt="Typing SVG"
   />
 </p>
