@@ -34,7 +34,11 @@
 - **Star of the Month** – Awarded at Tata Play Limited  
 - **Special Initiative Award** – Awarded at Tata Play Limited
 <p align="center">
-  <img src="https://i.imgur.com/8ZgNeky.png" alt="TCS Logo" width="220"/>
+  <img 
+    width="220"
+    alt="TCS Logo"
+    src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAACcCAYAAADKc7YbAAAGGUlEQVR4Xu3YMQ0AAAgDINc/9K3hHFQgBBG3CSYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw2ySUAAFAPtUGAAAAAElFTkSuQmCC"
+  />
 
   <br><br>
 
