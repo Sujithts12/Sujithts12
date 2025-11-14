@@ -21,12 +21,11 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00FFFF&center=true&vCenter=true&width=650&lines=TATA+Consultancy+Services;Always+Building+%7C+Always+Sharing;Passionate+About+Data+%26+Analytics" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0066CC&center=true&vCenter=true&width=750&lines=TATA+Consultancy+Services;Power+BI+Developer+%7C+Always+Sharing;Passionate+About+Data+%26+Analytics"
     alt="Typing Animation"
-/>
+  />
 </p>
-
 
 # 🏅 Awards & Recognitions  
 
