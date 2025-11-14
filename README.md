@@ -35,11 +35,17 @@
 - **Special Initiative Award** – Awarded at Tata Play Limited
 
 <p align="center">
-  <img src="https://api.iconify.design/eos-icons:loading.svg?color=%230066CC" width="130" />
-  <br/>
-  <strong style="color:#0066CC;">TATA Consultancy Services | Power BI Developer</strong>
-  <br/>
-  <strong style="color:#0066CC;">Passionate About Data & Analytics</strong>
+  <!-- TCS Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Tata_Consultancy_Services_Logo.svg" 
+       alt="TCS Logo" width="220"/>
+
+  <br><br>
+
+  <!-- Typing Animation -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0066CC&center=true&vCenter=true&width=750&lines=TATA+Consultancy+Services;Power+BI+Developer+%7C+Always+Sharing;Passionate+About+Data+%26+Analytics"
+    alt="Typing Animation"
+  />
 </p>
 
 # 🔧 Skills & Tools  
