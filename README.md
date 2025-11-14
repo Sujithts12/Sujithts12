@@ -19,12 +19,6 @@
 
 
 # 🏅 Awards & Recognitions  
-<p>
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&width=500&lines=🏅+Awards+%26+Recognitions"
-    alt="Awards & Recognitions"
-  />
-</p>
 
 - **Microsoft Certified** - PL-300 & DP-900 Associate 
 - **Contextual Master** – Recognized at Tata Consultancy Services  
@@ -79,6 +73,12 @@
 
 **Power BI Developer** – Tata Consultancy Services, Whitefield, Bangalore  
 *December 2021 – Present*  
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=TATA+Consultancy+Services+%7C+Power+BI+Developer+%7C+Whitefield+Bangalore"
+    alt="Typing SVG"
+  />
+</p>
 
 
 
