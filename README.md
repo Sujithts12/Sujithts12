@@ -19,9 +19,12 @@
 
 
 # 🏅 Awards & Recognitions  
-<h1 style="font-family: 'Fira Code', monospace; color: #00FFFF;">
-  🏅 Awards & Recognitions
-</h1>
+<p>
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=00FFFF&width=500&lines=🏅+Awards+%26+Recognitions"
+    alt="Awards & Recognitions"
+  />
+</p>
 
 - **Microsoft Certified** - PL-300 & DP-900 Associate 
 - **Contextual Master** – Recognized at Tata Consultancy Services  
