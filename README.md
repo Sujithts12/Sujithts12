@@ -33,15 +33,11 @@
 - **Contextual Master** – Recognized at Tata Consultancy Services  
 - **Star of the Month** – Awarded at Tata Play Limited  
 - **Special Initiative Award** – Awarded at Tata Play Limited
-
 <p align="center">
-  <!-- TCS Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Tata_Consultancy_Services_Logo.svg" 
-       alt="TCS Logo" width="220"/>
+  <img src="https://i.imgur.com/5wIu1QX.png" alt="TCS Logo" width="220"/>
 
   <br><br>
 
-  <!-- Typing Animation -->
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=0066CC&center=true&vCenter=true&width=750&lines=TATA+Consultancy+Services;Power+BI+Developer+%7C+Always+Sharing;Passionate+About+Data+%26+Analytics"
     alt="Typing Animation"
