@@ -71,14 +71,13 @@
 
 # 💼 Work Experience  
 
-**Power BI Developer** – Tata Consultancy Services, Whitefield, Bangalore  
-*December 2021 – Present*  
 <p>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=TATA+Consultancy+Services+%7C+Power+BI+Developer+%7C+Whitefield+Bangalore"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=TATA+Consultancy+Services+%7C+Power+BI+Developer"
     alt="Typing SVG"
-  />
-</p>
+  /
+</p>  
+*December 2021 – Present*  - Whitefield Bangalore Karnataka 
 
 
 
