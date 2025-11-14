@@ -34,7 +34,13 @@
 - **Star of the Month** – Awarded at Tata Play Limited  
 - **Special Initiative Award** – Awarded at Tata Play Limited
 
-
+<p align="center">
+  <img src="https://api.iconify.design/eos-icons:loading.svg?color=%230066CC" width="130" />
+  <br/>
+  <strong style="color:#0066CC;">TATA Consultancy Services | Power BI Developer</strong>
+  <br/>
+  <strong style="color:#0066CC;">Passionate About Data & Analytics</strong>
+</p>
 
 # 🔧 Skills & Tools  
 
