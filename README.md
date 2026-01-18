@@ -23,7 +23,7 @@
 💡 A passionate BI Developer with a knack for turning raw data into actionable insights.Blending analytical thinking with diverse cultural roots to build impactful BI solutions.  
 <p align="center">
 
-🎨 **Creative Side:** I am an **Acrylic Painting Artist** Beyond data, I express creativity through acrylic painting.
+🎨 **Creative Side** I am an **Acrylic Painting Artist** Beyond data, I express creativity through acrylic painting.
 
 
 🌱 Currently learning **Microsoft Fabric**.  
