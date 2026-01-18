@@ -29,8 +29,8 @@
 
 Currently working at 🏦 Lloyds Technology Centre (LTC)📍Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
 
-**Previously at** 
-Tata Consultancy Services (TCS)
+Previously worked at
+Tata Consultancy Services (TCS) from 
 Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 
