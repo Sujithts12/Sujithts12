@@ -16,26 +16,9 @@ Currently working at 🏦 Lloyds Technology Centre India (LTC), Hyderabad,Telang
 
 💼 **Previously at** 
 Tata Consultancy Services (TCS), Whitefield,Bengaluru  
+
 🎨 **Creative Side:** I am an **Acrylic Painting Artist** Beyond data, I express creativity through acrylic painting.
 
-
-
-
-📍 Native: Palakkad, Kerala 🌴  
-🌿 Raised in the hills of Coorg, Karnataka  
-### Power BI Developer | Banking & Financial Analytics
-Currently working as a ![Power BI](https://img.shields.io/badge/Power%20BI-Developer-yellow) 
-🏦 Lloyds Technology Centre India (LTC), Hyderabad  
-a Global Capability Centre (GCC) of Lloyds Banking Group.
-💼 Ex-TCSer
-
-
-![Lloyds](https://img.shields.io/badge/Lloyds-Technology%20Centre-blue)
-![GCC](https://img.shields.io/badge/GCC-Banking%20Domain-green)
-![Ex-TCS](https://img.shields.io/badge/Ex-TCS-grey)
-
-📍 Hyderabad, India  
-📊 Turning raw data into meaningful insights
 💡 Blending analytical thinking with diverse cultural roots to build impactful BI solutions.
 
 <p align="center">
