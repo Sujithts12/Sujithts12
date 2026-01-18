@@ -14,7 +14,7 @@ a Global Capability Centre (GCC) of Lloyds Banking Group.
 
 📍 Hyderabad, India  
 📊 Turning raw data into meaningful insights
-🚀 I’m currently serving my notice period @ TATA Consultancy Services Banglore and actively looking for new opportunities as a **Power BI Developer / Data Analyst**.
+💡 Blending analytical thinking with diverse cultural roots to build impactful BI solutions.
 
 <p align="center">
   <img src="https://github.com/Sujithts12/Sujithts12/blob/main/portfolio.jpeg" alt="Banner" width="100%" />
