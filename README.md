@@ -125,3 +125,37 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
  
 ---
 
+<div align="center">
+
+<br>
+
+<table>
+<tr>
+<td align="center" width="520" style="padding:24px; border-radius:14px; border:2px solid #F2C811; background-color:#0d1117; box-shadow:0 0 20px rgba(242,200,17,0.3);">
+
+<h3>🙏 Thank You for Scrolling</h3>
+
+<p>
+You’ve reached the end of my GitHub portfolio.<br>
+Thank you for taking the time to explore my journey,<br>
+projects, and passion for data & creativity.
+</p>
+
+<p>
+🔗 <a href="https://sujith-ts-ze7eymc.gamma.site/">View Portfolio</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+💼 <a href="https://linkedin.com/in/sujith-siddarth-514830208">Connect on LinkedIn</a>
+</p>
+
+<p>
+<sub>✨ Let’s turn data into impactful stories ✨</sub>
+</p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+</div>
+
