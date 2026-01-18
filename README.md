@@ -2,7 +2,12 @@
 📍 Native: Palakkad, Kerala 🌴  
 🌿 Raised in the hills of Coorg, Karnataka  
 
-![Power BI](https://img.shields.io/badge/Power%20BI-Developer-yellow)
+📊 ![Power BI](https://img.shields.io/badge/Power%20BI-Developer-yellow) 
+🏦 Lloyds Technology Centre India (LTC), Hyderabad  
+🔹 Subsidiary of Lloyds Banking Group (GCC)  
+💼 Ex-TCS  
+
+
 ![Lloyds](https://img.shields.io/badge/Lloyds-Technology%20Centre-blue)
 ![GCC](https://img.shields.io/badge/GCC-Banking%20Domain-green)
 ![Ex-TCS](https://img.shields.io/badge/Ex-TCS-grey)
