@@ -14,7 +14,8 @@
 
 Currently working at 🏦 Lloyds Technology Centre India (LTC), Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
 
-💼 **Previously Worked at:** Tata Consultancy Services (TCS), Whitefield,Bengaluru  
+💼 **Previously Worked at:** 
+Tata Consultancy Services (TCS), Whitefield,Bengaluru  
 🎨 **Creative Side:** I am an **Acrylic Painting Artist** Beyond data, I express creativity through acrylic painting.
 
 
