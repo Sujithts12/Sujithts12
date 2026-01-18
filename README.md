@@ -139,7 +139,11 @@ You’ve reached the end of my GitHub portfolio.<br>
 Thank you for taking the time to explore my journey.<br>
 
 </p>
+<p align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Lets+turn+data+into+impactful+stories)
 
+</p>
 
 <p>
 <sub>✨ Let’s turn data into impactful stories ✨</sub>
