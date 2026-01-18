@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/GCC-Lloyds-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ex--TCS-grey?style=flat-square"/>
 </p>
-🔹 Banking & Financial Analytics
+
 ---
 
 🏦 **Lloyds Technology Centre India (LTC)** — Hyderabad, Telangana  
