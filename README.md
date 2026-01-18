@@ -111,7 +111,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
     <img src="https://img.shields.io/badge/Portfolio-FFDD00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 <a href="https://sujithts12.github.io/Acrylic_Paintings_Sujith_TS/">
-    <img src="https://img.shields.io/badge/Portfolio-FFDD00?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Art Works-FFDD00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
   <a href="https://www.instagram.com/___sujith_siddarth_?igsh=MW96aDY1eTg1cHBjaQ==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
