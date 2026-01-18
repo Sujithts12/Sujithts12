@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Banking-Domain-0A66C2?style=flat-square"/>
   <img src="https://img.shields.io/badge/GCC-Lloyds-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Ex--TCS-grey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ex--TCSer-grey?style=flat-square"/>
 </p>
 
 Currently working at 🏦 Lloyds Technology Centre India (LTC), Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
