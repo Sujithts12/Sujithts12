@@ -27,11 +27,11 @@
 
 ### 💼 Work Experience  
 
-Currently working at 🏦 Lloyds Technology Centre (LTC) Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
+Currently working at 🏦 Lloyds Technology Centre (LTC)📍Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
 
 **Previously at** 
 Tata Consultancy Services (TCS)
--Dec 2021 – Jan 2026  - Whitefield Bangalore Karnataka 
+-Dec 2021 – Jan 2026📍Whitefield Bangalore
 
 
 
