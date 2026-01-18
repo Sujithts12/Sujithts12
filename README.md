@@ -1,4 +1,13 @@
 # Hi there, I'm Sujith Siddarth 👋
+### 👋 Hello World, I'm Sujith
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Developer-yellow)
+![Lloyds](https://img.shields.io/badge/Lloyds-Technology%20Centre-blue)
+![GCC](https://img.shields.io/badge/GCC-Banking%20Domain-green)
+![Ex-TCS](https://img.shields.io/badge/Ex-TCS-grey)
+
+📍 Hyderabad, India  
+📊 Turning raw data into meaningful insights
 🚀 I’m currently serving my notice period @ TATA Consultancy Services Banglore and actively looking for new opportunities as a **Power BI Developer / Data Analyst**.
 
 <p align="center">
