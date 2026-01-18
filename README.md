@@ -132,15 +132,6 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 <h3>🙏 Thank You for Scrolling</h3>
 
-
-
-<sub>
-
-
-<p>
-<sub>
-</p>
-
 </td>
 </tr>
 </table>
