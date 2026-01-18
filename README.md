@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/GCC-Lloyds-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ex--TCSer-grey?style=flat-square"/>
 </p>
-
-🎨 **Creative Side:** I am an **Acrylic Painting Artist** Beyond data, I express creativity through acrylic painting.
-
 <p align="center">
   <img src="https://github.com/Sujithts12/Sujithts12/blob/main/portfolio.jpeg" alt="Banner" width="100%" />
 </p>
@@ -25,6 +22,9 @@
 </p>
 💡 A passionate BI Developer with a knack for turning raw data into actionable insights.Blending analytical thinking with diverse cultural roots to build impactful BI solutions.  
 <p align="center">
+
+🎨 **Creative Side:** I am an **Acrylic Painting Artist** Beyond data, I express creativity through acrylic painting.
+
 
 🌱 Currently learning **Microsoft Fabric**.  
 🚀 Excited about solving business problems through **data visualization, analytics**.  
