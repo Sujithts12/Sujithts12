@@ -2,6 +2,9 @@
 📍 Native: Palakkad, Kerala 🌴  
 🌿 Raised in the hills of Coorg, Karnataka  
 
+Currently working as a **Power BI Developer at Lloyds Technology Centre India (Hyderabad)**,  
+a **Global Capability Centre (GCC)** of **Lloyds Banking Group**.  
+
 ![Power BI](https://img.shields.io/badge/Power%20BI-Developer-yellow) 
 🏦 Lloyds Technology Centre India (LTC), Hyderabad  
 🔹 Subsidiary of Lloyds Banking Group (GCC)  
