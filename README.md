@@ -128,12 +128,12 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 <td align="center" width="520" style="padding:24px; border-radius:14px; border:2px solid #F2C811; background-color:#0d1117; box-shadow:0 0 20px rgba(242,200,17,0.3);">
 
 <h3>🙏 Thank You for Scrolling</h3>
-
+<h3>
 <p align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Thank+You+for+Scrolling)
 
-</p>
+</p></h3>
 <p>
 You’ve reached the end of my GitHub portfolio.<br>
 Thank you for taking the time to explore my journey.<br>
