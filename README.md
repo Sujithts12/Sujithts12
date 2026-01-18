@@ -144,29 +144,3 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 ***
 
-<p align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2C811&center=true&vCenter=true&width=600&lines=✨Lets+turn+data+into+impactful+stories✨)
-</p>
-
-<p align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&color=F2C811&lines=Always+Learning)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&color=00FFFF&lines=Always+Building)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=600&color=3FB950&lines=Always+Sharing)
-
-</p>
-
-✨✨
-
-<p align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F2C811&center=true&vCenter=true&width=180&lines=Always+Learning)
-&nbsp;|&nbsp;
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=00FFFF&center=true&vCenter=true&width=180&lines=Always+Building)
-&nbsp;|&nbsp;
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=3FB950&center=true&vCenter=true&width=180&lines=Always+Sharing)
-
-</p>
