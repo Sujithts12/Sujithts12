@@ -97,6 +97,11 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 ***
 ### 🌐 Connect with Me  
+</p>
+<p align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✨Lets+turn+data+into+impactful+stories✨)
+</p>
 - 📧 **Email**: sujithsiddarth243@gmail.com  
 - 📱 **Mobile**: +91-9480562681
 
@@ -116,11 +121,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
   <a href="https://www.instagram.com/___sujith_siddarth_?igsh=MW96aDY1eTg1cHBjaQ==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-<p align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✨Lets+turn+data+into+impactful+stories✨)
-</p>
+
 
 <div align="center">
 
