@@ -11,17 +11,6 @@
   <img src="https://img.shields.io/badge/GCC-Lloyds-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/Ex--TCS-grey?style=flat-square"/>
 </p>
-
----
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-  <img ![GCC](https://img.shields.io/badge/GCC-Banking%20Domain-green)
-  <img src="https://img.shields.io/badge/GCC-Lloyds-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Ex--TCS-grey?style=flat-square"/>
-</p>
-
 ---
 
 🏦 **Lloyds Technology Centre India (LTC)** — Hyderabad, Telangana  
