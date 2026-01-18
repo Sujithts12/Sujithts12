@@ -12,11 +12,6 @@
   <img src="https://img.shields.io/badge/Ex--TCSer-grey?style=flat-square"/>
 </p>
 
-Currently working at 🏦 Lloyds Technology Centre (LTC) Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
-
-💼 **Previously at** 
-Tata Consultancy Services (TCS), Whitefield,Bengaluru  
-
 🎨 **Creative Side:** I am an **Acrylic Painting Artist** Beyond data, I express creativity through acrylic painting.
 
 <p align="center">
@@ -87,6 +82,12 @@ Tata Consultancy Services (TCS), Whitefield,Bengaluru
 
 
 # 💼 Work Experience  
+
+Currently working at 🏦 Lloyds Technology Centre (LTC) Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
+
+💼 **Previously at** 
+Tata Consultancy Services (TCS), Whitefield,Bengaluru  
+
 
 <p>
   <img
