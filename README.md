@@ -36,7 +36,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 ***
 ### 🏆 Awards & Recognitions  
 
-- **🥉 Microsoft Certified** - DP-600, PL-300 & DP-900 Associate. 
+- **🥉 Microsoft Certified 3x** - DP-600, PL-300 & DP-900 Associate. 
 - **🎖️Contextual Master** – Recognized at Tata Consultancy Services  
 - **🥇Star of the Month** – Awarded at Tata Play Limited  
 - **🥈Special Initiative Award** – Awarded at Tata Play Limited
