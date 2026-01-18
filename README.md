@@ -5,7 +5,17 @@
 
 📍 **Native:** Palakkad, Kerala 🌴  
 🌿 **Raised in the hills of:** Coorg, Karnataka  
+<h3 align="center"><img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> 🔹 Banking & Financial Analytics
+</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Banking-Domain-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GCC-Lloyds-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ex--TCS-grey?style=flat-square"/>
+</p>
+
+---
 </h3>
 
 <p align="center">
