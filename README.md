@@ -30,16 +30,8 @@
 Currently working at 🏦 Lloyds Technology Centre (LTC) Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
 
 💼 **Previously at** 
-Tata Consultancy Services (TCS), Whitefield,Bengaluru  
-
-
-<p>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&width=600&lines=TATA+Consultancy+Services+%7C+Power+BI+Developer"
-    alt="Typing SVG"
-  /
-</p>  
-- **December 2021 – Present**  - Whitefield Bangalore Karnataka 
+Tata Consultancy Services (TCS)
+-Dec 2021 – Jan 2026  - Whitefield Bangalore Karnataka 
 
 
 
