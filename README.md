@@ -134,8 +134,8 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 <p>
 You’ve reached the end of my GitHub portfolio.<br>
-Thank you for taking the time to explore my journey,<br>
-projects, and passion for data & creativity.
+Thank you for taking the time to explore my journey.<br>
+
 </p>
 
 
