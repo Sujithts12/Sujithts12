@@ -118,9 +118,6 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
   </a>
 </p>
 
-
-
-
 <p align="center">
   <span class="fade-text">✨ *“Data is the new oil, but visualization is the spark that makes it valuable.”* ✨
 </strong></span>
