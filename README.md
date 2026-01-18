@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Ex--TCSer-grey?style=flat-square"/>
 </p>
 
-Currently working at 🏦 Lloyds Technology Centre India (LTC), Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
+Currently working at 🏦 Lloyds Technology Centre (LTC) Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
 
 💼 **Previously at** 
 Tata Consultancy Services (TCS), Whitefield,Bengaluru  
