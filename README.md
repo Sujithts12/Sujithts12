@@ -17,7 +17,7 @@
 
 <p align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2C811&center=true&vCenter=true&width=600&lines=Always+Learning+%7C+Always+Building+%7C+Always+Sharing)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2C811&center=true&vCenter=true&width=600&lines=Always+Learning📖+%7C+Always+Building🗽+%7C+Always+Sharing🤝)
 
 </p>
 💡 A passionate BI Developer with a knack for turning raw data into actionable insights.Blending analytical thinking with diverse cultural roots to build impactful BI solutions.  
