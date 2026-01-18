@@ -107,7 +107,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
   <a href="https://linkedin.com/in/sujith-siddarth-514830208">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://sujithts12.github.io/">
+  <a href="https://sujith-ts-ze7eymc.gamma.site/">
     <img src="https://img.shields.io/badge/Portfolio-FFDD00?style=for-the-badge&logo=github&logoColor=black" />
   </a>
   <a href="https://www.instagram.com/___sujith_siddarth_?igsh=MW96aDY1eTg1cHBjaQ==">
