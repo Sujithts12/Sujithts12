@@ -119,9 +119,6 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 </p>
 
 
- 
----
-
 <div align="center">
 
 <br>
@@ -150,4 +147,4 @@ Thank you for taking the time to explore my journey.<br>
 <br>
 
 </div>
-
+---
