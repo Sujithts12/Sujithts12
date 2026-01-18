@@ -131,7 +131,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 <p align="center">
   
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Let’s+turn+data+into+ impactful+stories)
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Lets+turn+data+into+ impactful+stories)
 
 </p>
 <p>
