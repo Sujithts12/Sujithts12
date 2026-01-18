@@ -31,7 +31,7 @@ Currently working at 🏦 Lloyds Technology Centre (LTC)📍Hyderabad,Telangana 
 
 **Previously at** 
 Tata Consultancy Services (TCS)
--Dec 2021 – Jan 2026📍Whitefield Bangalore
+Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 
 
