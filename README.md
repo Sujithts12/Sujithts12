@@ -1,6 +1,11 @@
 
 <h1 align="center">👋 Hello, I’m Sujith Siddharth</h1>
 
+### 🌍 Background
+
+📍 **Native:** Palakkad, Kerala 🌴  
+🌿 **Raised in:** Coorg, Karnataka  
+
 <h3 align="center"><img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> 🔹 Banking & Financial Analytics
 </h3>
 
@@ -12,11 +17,6 @@
 </p>
 
 ---
-
-### 🌍 Background
-
-📍 **Native:** Palakkad, Kerala 🌴  
-🌿 **Raised in:** Coorg, Karnataka  
 
 🏦 **Lloyds Technology Centre India (LTC)** — Hyderabad, Telangana  
 🔹 Global Capability Centre (GCC) of **Lloyds Banking Group**
