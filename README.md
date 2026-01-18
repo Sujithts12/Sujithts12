@@ -117,7 +117,10 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
+<p align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✨Lets+turn+data+into+impactful+stories✨)
+</p>
 
 <div align="center">
 
@@ -132,11 +135,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 
 <sub>
-<p align="center">
-  
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=✨Lets+turn+data+into+impactful+stories✨)
-<sub>
-</p>
+
 
 <p>
 <sub>
