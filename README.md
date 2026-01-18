@@ -1,4 +1,34 @@
 # Hello World, I'm Sujith Siddarth 👋
+
+<h1 align="center">👋 Hello, I’m Sujith Siddharth</h1>
+
+<h3 align="center">
+Power BI Developer · Banking & Financial Analytics
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Banking-Domain-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GCC-Lloyds-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ex--TCS-grey?style=flat-square"/>
+</p>
+
+---
+
+### 🌍 Background
+
+📍 **Native:** Palakkad, Kerala 🌴  
+🌿 **Raised in:** Coorg, Karnataka  
+
+🏦 **Lloyds Technology Centre India (LTC)** — Hyderabad, Telangana  
+🔹 Global Capability Centre (GCC) of **Lloyds Banking Group**
+
+💼 **Previously:** Tata Consultancy Services (TCS), Bengaluru  
+🎨 **Creative Side:** Acrylic Painting Artist  
+
+
+
+
 📍 Native: Palakkad, Kerala 🌴  
 🌿 Raised in the hills of Coorg, Karnataka  
 ### Power BI Developer | Banking & Financial Analytics
