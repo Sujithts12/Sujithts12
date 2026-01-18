@@ -43,7 +43,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 - **Special Initiative Award** – Awarded at Tata Play Limited
 
 
-# 🔧 Skills & Tools  
+### 🔧 Skills & Tools  
 
 
 <table>
@@ -88,7 +88,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 
 
-# 📂 Featured Projects   
+### 📂 Featured Projects   
 
 | 💼 **Project** | 📝 **Description** | 🔗 **Link** |
 |----------------|-------------------|-------------|
@@ -102,7 +102,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 
 
-# 🌐 Connect with Me  
+### 🌐 Connect with Me  
 - 📧 **Email**: sujithsiddarth243@gmail.com  
 - 📱 **Mobile**: +91-9480562681
 
