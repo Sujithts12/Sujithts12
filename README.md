@@ -19,8 +19,6 @@ Tata Consultancy Services (TCS), Whitefield,Bengaluru
 
 🎨 **Creative Side:** I am an **Acrylic Painting Artist** Beyond data, I express creativity through acrylic painting.
 
-💡 Blending analytical thinking with diverse cultural roots to build impactful BI solutions.
-
 <p align="center">
   <img src="https://github.com/Sujithts12/Sujithts12/blob/main/portfolio.jpeg" alt="Banner" width="100%" />
 </p>
@@ -31,7 +29,7 @@ Tata Consultancy Services (TCS), Whitefield,Bengaluru
 
 </p>
 
-💡 A passionate **Power BI Developer** with a knack for turning raw data into actionable insights.    
+💡 A passionate **Power BI Developer** with a knack for turning raw data into actionable insights.Blending analytical thinking with diverse cultural roots to build impactful BI solutions.  
 <p align="center">
 
 🌱 Currently learning **Microsoft Fabric**.  
