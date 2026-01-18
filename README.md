@@ -1,5 +1,6 @@
-# Hi there, I'm Sujith Siddarth 👋
-### 👋 Hello World, I'm Sujith
+# Hello World, I'm Sujith Siddarth 👋
+📍 Native: Palakkad, Kerala  
+🌿 Raised in the hills of Coorg, Karnataka  
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Developer-yellow)
 ![Lloyds](https://img.shields.io/badge/Lloyds-Technology%20Centre-blue)
