@@ -130,11 +130,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 <h3>🙏 Thank You for Scrolling</h3>
 
 
-<p>
-You’ve reached the end of my GitHub portfolio.<br>
-Thank you for taking the time to explore my journey.<br>
 
-</p>
 <sub>
 <p align="center">
   
