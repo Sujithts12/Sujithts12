@@ -1,8 +1,7 @@
-# Hello World, I'm Sujith Siddarth 👋
 
 <h1 align="center">👋 Hello, I’m Sujith Siddharth</h1>
 
-<h3 align="center">
+<h3 align="center"><img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 Power BI Developer · Banking & Financial Analytics
 </h3>
 
