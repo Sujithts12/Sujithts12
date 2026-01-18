@@ -34,7 +34,6 @@ Tata Consultancy Services (TCS) from
 Dec 2021 – Jan 2026📍Bangalore Karnataka.
 
 ***
-
 ### 🏅 Awards & Recognitions  
 
 - **Microsoft Certified** - PL-300 & DP-900 Associate 
@@ -42,7 +41,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 - **Star of the Month** – Awarded at Tata Play Limited  
 - **Special Initiative Award** – Awarded at Tata Play Limited
 
-
+***
 ### 🔧 Skills & Tools  
 
 
@@ -84,10 +83,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 - **Excel**: Pivot Tables, Power Query, Conditional formatting, Concatenation etc
 - **Power Automate**: Automated cloud flow
 
-
-
-
-
+***
 ### 📂 Featured Projects   
 
 | 💼 **Project** | 📝 **Description** | 🔗 **Link** |
@@ -99,9 +95,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
 | **PowerBI_Python_Transformations_sentiment_analysis** | Python + Power BI project analyzing customer feedback to identify Positive, Negative, and Neutral sentiments using sentiment analysis. | [View Project](https://github.com/Sujithts12/PowerBI_Python_Transformations_sentiment_analysis) |
 | **Power_BI_Bike_sales** | Interactive Power BI dashboard analyzing bike sales trends, resale value, and mileage across Indian manufacturers. | [View Project](https://github.com/Sujithts12/Power_BI_Bike_sales) |
 
-
-
-
+***
 ### 🌐 Connect with Me  
 - 📧 **Email**: sujithsiddarth243@gmail.com  
 - 📱 **Mobile**: +91-9480562681
