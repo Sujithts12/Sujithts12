@@ -118,10 +118,7 @@ Dec 2021 – Jan 2026📍Bangalore Karnataka.
   </a>
 </p>
 
-<p align="center">
-  <span class="fade-text">✨ *“Data is the new oil, but visualization is the spark that makes it valuable.”* ✨
-</strong></span>
-</p>
+
  
 ---
 
@@ -141,11 +138,6 @@ Thank you for taking the time to explore my journey,<br>
 projects, and passion for data & creativity.
 </p>
 
-<p>
-🔗 <a href="https://sujith-ts-ze7eymc.gamma.site/">View Portfolio</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-💼 <a href="https://linkedin.com/in/sujith-siddarth-514830208">Connect on LinkedIn</a>
-</p>
 
 <p>
 <sub>✨ Let’s turn data into impactful stories ✨</sub>
