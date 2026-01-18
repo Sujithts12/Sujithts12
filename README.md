@@ -1,7 +1,7 @@
 # Hello World, I'm Sujith Siddarth 👋
 📍 Native: Palakkad, Kerala 🌴  
 🌿 Raised in the hills of Coorg, Karnataka  
-
+### Power BI Developer | Banking & Financial Analytics
 Currently working as a ![Power BI](https://img.shields.io/badge/Power%20BI-Developer-yellow) 
 🏦 Lloyds Technology Centre India (LTC), Hyderabad  
 a Global Capability Centre (GCC) of Lloyds Banking Group.
