@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/Ex--TCS-grey?style=flat-square"/>
 </p>
 
-🏦 **Lloyds Technology Centre India (LTC)** — Hyderabad, Telangana  
-🔹 Global Capability Centre (GCC) of **Lloyds Banking Group**
+Currently working at 🏦 Lloyds Technology Centre India (LTC), Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
 
 💼 **Previously:** Tata Consultancy Services (TCS), Bengaluru  
 🎨 **Creative Side:** Acrylic Painting Artist  
