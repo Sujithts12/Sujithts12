@@ -5,6 +5,15 @@
   <img src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg" alt="Banner" width="100%" />
 </p>
 
+<p align="center">
+  <img 
+    src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
+    alt="Sujith Profile Pic"
+    width="180"
+    height="180"
+    style="border-radius: 50%; object-fit: cover;"
+  />
+</p>
 
 ### 🌍 Background
 
