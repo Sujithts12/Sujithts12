@@ -1,6 +1,11 @@
 
 <h1 align="center">👋 Hello, I’m Sujith Siddarth</h1>
 
+<p align="center">
+  <img src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg" alt="Banner" width="100%" />
+</p>
+
+
 ### 🌍 Background
 
 📍 **Native:** Palakkad, Kerala 🌴  
