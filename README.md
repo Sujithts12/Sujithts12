@@ -15,6 +15,27 @@
   />
 </p>
 
+<table>
+  <tr>
+    <td width="220" align="center">
+      <img 
+        src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
+        alt="Sujith Profile Pic"
+        width="180"
+        height="180"
+        style="border-radius: 50%; object-fit: cover;"
+      />
+    </td>
+    <td>
+      <h3>🌍 Background</h3>
+      <p>
+        📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
+        🌿 <b>Raised in the hills of:</b> Coorg, Karnataka
+      </p>
+    </td>
+  </tr>
+</table>
+
 ### 🌍 Background
 
 📍 **Native:** Palakkad, Kerala 🌴  
