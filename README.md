@@ -41,6 +41,13 @@
 
 <table>
   <tr>
+    <td valign="top">
+      <h3 style="margin-top: 0;">🌍 Background</h3>
+      <p style="margin-top: 6px;">
+        📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
+        🌿 <b>Raised in the hills of:</b> Coorg, Karnataka
+      </p>
+    </td>
     <td width="170" valign="top" align="center">
       <img 
         src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
@@ -49,13 +56,6 @@
         height="150"
         style="border-radius: 50%; object-fit: cover;"
       />
-    </td>
-    <td valign="top">
-      <h3 style="margin-top: 0;">🌍 Background</h3>
-      <p style="margin-top: 6px;">
-        📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
-        🌿 <b>Raised in the hills of:</b> Coorg, Karnataka
-      </p>
     </td>
   </tr>
 </table>
