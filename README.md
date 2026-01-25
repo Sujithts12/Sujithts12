@@ -46,7 +46,7 @@
         🌿 <b>Raised in the hills of:</b> Coorg, Karnataka
       </p>
     </td>
-    <td width="200" valign="top" align="center">
+    <td width="200" valign="center" align="center">
       <img 
         src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
         alt="Sujith Profile Pic"
