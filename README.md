@@ -53,8 +53,7 @@ I strive to bring honesty, discipline, and a positive mindset into both my work 
 
 ### 🔥 About Me
 
-I’m a down-to-earth professional who believes in karma, faith, and respecting people and perspectives.  
-I strive to bring honesty, discipline, and a positive mindset into both my work and everyday life, while continuously learning and growing in the field of Business Intelligence
+🪷I’m a down-to-earth professional who believes in karma, faith, and respecting people and perspectives. I strive to bring honesty, discipline, and a positive mindset into both my work and everyday life, while continuously learning and growing in the field of Business Intelligence
 
 ### 💼 Work Experience  
 
