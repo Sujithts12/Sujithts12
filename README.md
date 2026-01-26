@@ -13,8 +13,10 @@
       </p>
       </p>
       <p>
-        Passionate about data, analytics, and building meaningful insights
-        through technology.
+        <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Banking-Domain-0A66C2?style=flat-square"/>
+  <img src="https://img.shields.io/badge/GCC-Lloyds-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Ex--TCSer-grey?style=flat-square"/>
       </p>
     </td>
     <td align="right" width="35%">
