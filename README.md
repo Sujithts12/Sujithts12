@@ -41,13 +41,13 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F2C811&center=true&vCenter=true&width=700&lines=Always+Learning📖+%7C+Always+Building🗽+%7C+Always+Sharing🤝)
 
 </p>
+
+<p align="center">
 ### 🔹 About Me
 
 I’m a down-to-earth professional who believes in karma, faith, and respecting people and perspectives.  
 I strive to bring honesty, discipline, and a positive mindset into both my work and everyday life, while continuously learning and growing in the field of Business Intelligence.
 💡 A passionate BI Developer with a knack for turning raw data into actionable insights.Blending analytical thinking with diverse cultural roots to build impactful BI solutions.  
-<p align="center">
-
 🎨 **Creative Side** I am an **Acrylic Painting Artist** Beyond data, I express creativity through my painting's.
 ***
 ### 💼 Work Experience  
