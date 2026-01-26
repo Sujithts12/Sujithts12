@@ -69,6 +69,7 @@
       <p>
            📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
         🌿 <b>Raised in the hills of:</b> Coorg, Karnataka
+           💼 <b>Power BI Developer</b> Business Intelligence & Data Analytics ⚡<br/>
       </p>
       </p>
       <p>
