@@ -6,7 +6,7 @@
   <tr>
     <td valign="top" width="70%">
       <h3>🌍 Background</h3>
-      <p>
+      <p> <b>🇮🇳<br/>
            📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
         🌿 <b>Raised in the hills of:</b> Coorg, Karnataka<br/>
            💼 <b>Business Intelligence</b> & Data Analytics <br/>
