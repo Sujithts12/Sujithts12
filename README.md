@@ -60,6 +60,33 @@
 
 👍👍
 
+<h1 align="center">Hello, I’m Sujith Siddarth</h1>
+
+<table align="center">
+  <tr>
+    <td valign="top" width="65%">
+      <h3>Background</h3>
+      <p>
+        <strong>Native:</strong> Palakkad, Kerala, India<br/>
+        <strong>Raised in:</strong> Coorg, Karnataka
+      </p>
+      <p>
+        Passionate about data, analytics, and building meaningful insights
+        through technology.
+      </p>
+    </td>
+    <td align="right" width="35%">
+      <img 
+        src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
+        alt="Sujith Siddarth"
+        width="180"
+        height="180"
+        style="border-radius: 50%;"
+      />
+    </td>
+  </tr>
+</table>
+
 ### 🌍 Background
 
 📍 **Native:** Palakkad, Kerala 🌴  
