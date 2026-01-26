@@ -79,8 +79,8 @@
       <img 
         src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
         alt="Sujith Siddarth"
-        width="180"
-        height="180"
+        width="200"
+        height="250"
         style="border-radius: 50%;"
       />
     </td>
