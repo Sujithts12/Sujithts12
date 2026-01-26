@@ -52,7 +52,7 @@
         alt="Sujith Profile Pic"
         width="200"
         height="250"
-        style="border-radius: 50%; object-fit: cover;"
+        style="border-radius: 50%;"
       />
     </td>
   </tr>
@@ -65,7 +65,7 @@
 <table align="center">
   <tr>
     <td valign="top" width="65%">
-      <h3>Background</h3>
+      <h3>🌍 Background</h3>
       <p>
         <strong>Native:</strong> Palakkad, Kerala, India<br/>
         <strong>Raised in:</strong> Coorg, Karnataka
