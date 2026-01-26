@@ -9,7 +9,7 @@
         📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
         🌿 <b>Raised in the hills of:</b> Coorg, Karnataka<br/>
         💼 <b>Business Intelligence</b> & Data Analytics <br/>
-        🖌️ <b>Acrylic Painting</b> Artist 🎨
+        🎨 <b>Acrylic Painting</b> Artist 🖌️
       </p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
