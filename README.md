@@ -29,10 +29,6 @@
   </tr>
 </table>
 
-### 🌍 Background
-
-📍 **Native:** Palakkad, Kerala 🌴  
-🌿 **Raised in the hills of:** Coorg, Karnataka  
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Banking-Domain-0A66C2?style=flat-square"/>
