@@ -67,6 +67,9 @@
     <td valign="top" width="65%">
       <h3>🌍 Background</h3>
       <p>
+           📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
+        🌿 <b>Raised in the hills of:</b> Coorg, Karnataka
+      </p>
         <strong>Native:</strong> Palakkad, Kerala, India<br/>
         <strong>Raised in:</strong> Coorg, Karnataka
       </p>
