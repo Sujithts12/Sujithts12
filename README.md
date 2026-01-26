@@ -2,66 +2,6 @@
 <h1 align="center">👋 Hello, I’m Sujith Siddarth</h1>
 
 
-
-<p align="center">
-  <img 
-    src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
-    alt="Sujith Profile Pic"
-    width="200"
-    height="250"
-    style="border-radius: 50%; object-fit: cover;"
-  />
-</p>
-
-<table>
-  <tr>
-    <td width="220" align="center">
-      <img 
-        src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
-        alt="Sujith Profile Pic"
-        width="180"
-        height="180"
-        style="border-radius: 50%; object-fit: cover;"
-      />
-    </td>
-    <td>
-      <h3>🌍 Background</h3>
-      <p>
-        📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
-        🌿 <b>Raised in the hills of:</b> Coorg, Karnataka
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-👍👍👍👍
-
-<table>
-  <tr>
-    <td valign="top">
-      <h3 style="margin-top: 0;">🌍 Background</h3>
-      <p style="margin-top: 6px;">
-        📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
-        🌿 <b>Raised in the hills of:</b> Coorg, Karnataka
-      </p>
-    </td>
-    <td width="200" valign="center" align="center">
-      <img 
-        src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
-        alt="Sujith Profile Pic"
-        width="200"
-        height="250"
-        style="border-radius: 50%;"
-      />
-    </td>
-  </tr>
-</table>
-
-👍👍
-
-<h1 align="center">Hello, I’m Sujith Siddarth</h1>
-
 <table align="center">
   <tr>
     <td valign="top" width="65%">
