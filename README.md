@@ -18,7 +18,6 @@
         <img src="https://img.shields.io/badge/Ex--TCSer-grey?style=flat-square"/>
       </p>
     </td>
-
     <td align="right" width="35%">
       <img 
         src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
