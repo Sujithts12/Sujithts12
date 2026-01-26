@@ -70,8 +70,6 @@
            📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
         🌿 <b>Raised in the hills of:</b> Coorg, Karnataka
       </p>
-        <strong>Native:</strong> Palakkad, Kerala, India<br/>
-        <strong>Raised in:</strong> Coorg, Karnataka
       </p>
       <p>
         Passionate about data, analytics, and building meaningful insights
