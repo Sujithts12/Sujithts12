@@ -51,7 +51,7 @@
         src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
         alt="Sujith Profile Pic"
         width="200"
-        height="200"
+        height="250"
         style="border-radius: 50%; object-fit: cover;"
       />
     </td>
