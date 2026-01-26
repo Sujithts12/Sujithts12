@@ -4,7 +4,7 @@
 
 <table align="center">
   <tr>
-    <td valign="top" width="75%">
+    <td valign="top" width="70%">
       <h3>🌍 Background</h3>
       <p>
            📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
