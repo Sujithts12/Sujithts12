@@ -23,8 +23,8 @@
       <img 
         src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
         alt="Sujith Siddarth"
-        width="200"
-        height="250"
+        width="250"
+        height="300"
         style="border-radius: 50%;"
       />
     </td>
