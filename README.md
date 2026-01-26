@@ -50,6 +50,9 @@ I strive to bring honesty, discipline, and a positive mindset into both my work 
 💡 A passionate BI Developer with a knack for turning raw data into actionable insights.Blending analytical thinking with diverse cultural roots to build impactful BI solutions.  
 🎨 **Creative Side** I am an **Acrylic Painting Artist** Beyond data, I express creativity through my painting's.
 ***
+
+
+
 ### 💼 Work Experience  
 
 Currently working at 🏦 Lloyds Technology Centre (LTC)📍Hyderabad,Telangana a Global Capability Centre (GCC) of Lloyds Banking Group.
