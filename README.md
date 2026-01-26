@@ -1,4 +1,40 @@
+<h1 align="center">👋 Hello, I’m Sujith Siddarth</h1>
 
+<table align="center" border="1" cellpadding="12" cellspacing="0" style="border-color:#ffffff;">
+  <tr>
+    <td valign="top" width="70%">
+      <h3>🌍 Background</h3>
+      <p>
+        🇮🇳<br/>
+        📍 <b>Native:</b> Palakkad, Kerala 🌴<br/>
+        🌿 <b>Raised in the hills of:</b> Coorg, Karnataka<br/>
+        💼 <b>Business Intelligence</b> & Data Analytics <br/>
+        🖌️ <b>Acrylic Painting</b> Artist 🎨
+      </p>
+
+      <p>
+        <img src="https://img.shields.io/badge/Power%20BI-Developer-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Banking-Domain-0A66C2?style=flat-square"/>
+        <img src="https://img.shields.io/badge/GCC-Lloyds-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Ex--TCSer-grey?style=flat-square"/>
+      </p>
+    </td>
+
+    <td align="right" width="35%">
+      <img 
+        src="https://github.com/Sujithts12/Sujithts12/blob/main/IMG_20260119_143204.jpg"
+        alt="Sujith Siddarth"
+        width="250"
+        height="300"
+        style="border-radius: 50%;"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github.com/Sujithts12/Sujithts12/blob/main/portfolio.jpeg" alt="Banner" width="100%" />
+</p>
 <h1 align="center">👋 Hello, I’m Sujith Siddarth</h1>
 
 
